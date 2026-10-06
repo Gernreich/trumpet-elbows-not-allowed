@@ -1,5 +1,12 @@
 # Trumpet
 
+**Archived on 2026-10-06, read-only.** The trumpet continues in
+**[trumpet-elbows-allowed](https://github.com/Gernreich/trumpet-elbows-allowed)**
+([its writeup](https://gernreich.github.io/trumpet-elbows-allowed/)), which has
+this repository's full history. It cuts a turn that cannot fold as an elbow
+rather than refusing it, and `--refuse-elbows` gives this repository's behaviour
+back.
+
 A trumpet cut flat from 3mm birch ply and glued into a tube. The airway is a
 **10mm square** running through **16mm blocks** — 10mm of air inside 3mm walls —
 and it never changes section from the mouthpiece to the throat of the bell.
