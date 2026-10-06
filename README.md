@@ -16,7 +16,7 @@ first and last blocks sit on the same cross-section point, which a fractional
 number of turns cannot do.
 
 <!-- readme-only -->
-**[Read the writeup](https://gernreich.github.io/trumpet/)**
+**[Read the writeup](https://gernreich.github.io/trumpet-elbows-not-allowed/)**
 
 ![The built bore, twelve sections glued up](built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg)
 
@@ -452,7 +452,7 @@ cutting and the playing are shown.
 **[The rest of the build files](https://gernreich.github.io/)** — every instrument,
 each with its own writeup.
 
-**[Download everything as a ZIP](https://github.com/Gernreich/trumpet/archive/refs/heads/main.zip)**
+**[Download everything as a ZIP](https://github.com/Gernreich/trumpet-elbows-not-allowed/archive/refs/heads/main.zip)**
 — the generators, the gate, every cut file and every candidate bore.
 
 **Almost all of this is [CC0 1.0](LICENSE)** — every cut file, every walk, every
